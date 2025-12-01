@@ -127,4 +127,5 @@ Switch back to the Agent terminal. You will see it:
 
 ## 📜 License
 
+
 This project is open-source under the MIT License. Created for the Kaggle AI Agents Intensive 2025.
